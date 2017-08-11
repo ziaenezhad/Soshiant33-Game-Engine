@@ -1,6 +1,6 @@
 # Soshiant 33 Game Engine
 
-![](https://raw.githubusercontent.com/sajjad-shirazy/Pei/4dbb298f/MSVS2008/ClassDiagram1.png)
+![](https://cdn.rawgit.com/sajjad-shirazy/Soshiant-33-Game-Engine-/f661e8e3/MSVS2008/ClassDiagram1.png)
 
 ## Dependencies
 - Pei (https://github.com/sajjad-shirazy/Pei)
