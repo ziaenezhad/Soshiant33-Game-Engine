@@ -1,0 +1,136 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Soshiant33::S33ComplexEntity">
+    <Position X="4.5" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AARIAAAAgAAAEAgAAAAABEAAAAAAAAIAABAAAAAAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Engine\S33ComplexEntity.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Soshiant33::S33DebugDraw">
+    <Position X="14.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAAAAAAAAAAAQAAAAAAEAAABAIAAAJAAAAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Engine\S33DebugDraw.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Soshiant33::S33Engine">
+    <Position X="5.75" Y="9.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQQAAEEBAAAAAAQAQQAAAAAABAAAACIIABACAAGAkBA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Engine\S33Engine.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Soshiant33::S33Entity">
+    <Position X="3" Y="0.5" Width="1.75" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Soshiant33::S33Entity::Types">
+        <TypeIdentifier>
+          <NewMemberFileName>g:\Work\Soshiant\V0.2.0\Engine\S33Entity.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACQIAAAAQAAAAABAAAAABIAAAAIBEAAAABIAAAEAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Engine\S33Entity.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Soshiant33::S33Library">
+    <Position X="16" Y="2.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAECAACAAgAQAAAAAACAAQAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Engine\S33Library.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Soshiant33::S33Scene">
+    <Position X="3.25" Y="9.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAQgEBCAAAABABAAAAAAAAAAAAAgAAAACBEAEAAAIAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Engine\S33Scene.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Soshiant33::S33Sprite">
+    <Position X="0.75" Y="6.25" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAQAAAAAAAAAAAAAIAAABAAAAQAAAAIAABAAIAAAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Engine\S33Sprite.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Soshiant33::S33JointPattern">
+    <Position X="18.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAAAAAAAAAAAAAIQAAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Engine\S33ComplexEntity.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Soshiant33::S33ComplexEntityPatternChilds">
+    <Position X="16" Y="0.5" Width="2.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAEAAAAAAAIAAAAgAAAAAAAAIAAAAAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Engine\S33ComplexEntity.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Soshiant33::S33ComplexEntityPattern">
+    <Position X="10.75" Y="5.75" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIAAIAAAABAAAAAAIAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Engine\S33ComplexEntity.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Soshiant33::S33EntityPattern">
+    <Position X="9.75" Y="0.5" Width="2.25" />
+    <Compartments>
+      <Compartment Name="Nested Types" Collapsed="false" />
+    </Compartments>
+    <NestedTypes>
+      <Enum Name="Soshiant33::S33EntityPattern::Types">
+        <TypeIdentifier>
+          <NewMemberFileName>g:\Work\Soshiant\V0.2.0\Engine\S33Entity.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>ACAAgIAAAAAAAAAAAAAAAQAAAAAFAAAAAABAAAIASAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Engine\S33Entity.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Soshiant33::S33EntityParameters">
+    <Position X="18.75" Y="0.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Engine\S33Entity.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Soshiant33::S33KeyFrame">
+    <Position X="14.25" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAQAAAAAAIQAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Engine\S33KeyFrame.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Soshiant33::S33ScenePattern">
+    <Position X="11.5" Y="8.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgIgBAAAAQAAgAAAAIAAAAAAAAAAAAAEAAAAAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Engine\S33Scene.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Soshiant33::S33SpritePattern">
+    <Position X="8.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgKACAAAAAABAAABAIAAAAAAAAABAABAAAAAAAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Engine\S33Sprite.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Struct Name="Soshiant33::S33SpriteState">
+    <Position X="20.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAkAAAABAQAAgAIAAAAAQFAAAACBEAFAAIAAA=</HashCode>
+      <FileName>g:\Work\Soshiant\V0.2.0\Engine\S33SpriteState.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Font Name="Tahoma" Size="8.25" />
+</ClassDiagram>
